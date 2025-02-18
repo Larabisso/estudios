@@ -1,0 +1,5 @@
+Los cuatro estados de archivo son:
+1) Modified
+2) unmodified
+3) untracked.
+4) staged
