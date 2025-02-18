@@ -3,3 +3,9 @@ Los cuatro estados de archivo son:
 2) unmodified
 3) untracked.
 4) staged
+
+
+Los 3 sistemas de control de versiones son: 
+1) pito
+2) entra
+3) orto de lara
